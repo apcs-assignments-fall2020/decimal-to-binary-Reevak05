@@ -2,7 +2,7 @@
 
 In this assignment, you will write a method to convert a binary number to a decimal number. The input to your method will be a String representing a binary number (e.g. "1010"). Your method should return the decimal number equivalent of the input. Remember that you can use Integer.parseInt() to convert a String into an integer. Your code should have the following signature: public static int binaryToDecimal(String binary) {}
 
-After writing the the methods and testing that it works, add some code to your main method to test the methods. You should use Scanner in your main code to ask the user to type in a String representing the binary number, and then convert the number to a decimal number using yuor method. 
+After writing the the methods and testing that it works, add some code to your main method to test the methods. You should use Scanner in your main code to ask the user to type in a String representing the binary number, and then convert the number to a decimal number using your method. 
 
 Example of what your program may look like when it is being run:
 ```shell script
